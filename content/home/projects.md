@@ -19,19 +19,19 @@ subtitle = ""
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
 
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
+  # filter_default = 0
 
   # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+    # name = "All"
+    # tag = "*"
+
+   # [[content.filter_button]]
+    # name = "Deep Learning"
+    # tag = "Deep Learning"
 
   # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
-
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+    # name = "Other"
+    # tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -42,10 +42,10 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 2
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -54,7 +54,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  # color = "gray"
 
   # Background gradient.
   # gradient_start = "DeepSkyBlue"

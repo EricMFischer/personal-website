@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: M.S. Artificial Intelligence
+role: MS Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
 - name: University of California Los Angeles
-  url: ""
+  url: "https://vcla.stat.ucla.edu/people.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer vision and natural language processing and more specifically deep generative models.
+bio: My research interests include computer vision, natural language processing, and deep generative models.
 
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+interests:
+- Computer Vision
+- Natural Language Processing
+- Generative Modeling
 
 education:
   courses:
@@ -70,4 +70,4 @@ email: "emfischer712@ucla.edu"
 # - Visitors
 ---
 
-I received my undergraduate degree at UCLA and am currently pursuing a MS in Computer Science with a specialization in Artificial Intelligence. More specifically, my focus is on generative modeling techniques in computer vision and natural language processing. My coursework at UCLA spans statistics, computer science, and electrical and computer engineering, and this Fall 2019 I am applying to Artificial Intelligence PhD programs.
+I received my undergraduate degree at UCLA and am currently pursuing a MS in Computer Science with a specialization in Artificial Intelligence. More specifically, my focus is on generative modeling techniques in computer vision and natural language processing. My coursework at UCLA spans statistics, computer science, and electrical and computer engineering, and this Fall 2019 I am applying to PhD programs.
