@@ -22,7 +22,7 @@ image:
   focal_point: Smart
   preview_only: true
 
-url_code: "https://github.com/EricMFischer/deep-learning-specialization-coursera/blob/master/sequence-models/Week3/Trigger%20word%20detection/Trigger%20word%20detection%20-%20v1.ipynb"
+url_code: "https://github.com/EricMFischer/deep-learning-specialization/blob/master/sequence-models/week-3/trigger-word-detection/Trigger%20word%20detection%20-%20v1.ipynb"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -50,3 +50,4 @@ With a working model for trigger word detection, I used it to make predictions o
 {{< figure src="results.png" lightbox="true" width="50%" height="50%" >}}
 
 Some conclusions we can draw are that data synthesis is an effective way to create a large training set for speech problems, specifically trigger word detection. Also, using a spectrogram and optionally a 1D conv layer is a common pre-processing step prior to passing audio data to an RNN, GRU or LSTM. In general, an end-to-end deep learning approach can be used to built a very effective trigger word detection system.
+
