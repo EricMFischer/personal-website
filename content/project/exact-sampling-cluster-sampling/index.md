@@ -1,6 +1,6 @@
 ---
 title: Exact Sampling with Coupled Markov Chains and Swendsen-Wang Cluster Sampling of the Ising Model
-summary: A comparative analysis of two sampling methods, exact sampling using coupled Markov chains and the Gibbs distribution versus cluster sampling using the Swendsen-Wang algorithm
+summary: A comparative analysis of exact sampling using coupled Markov chains and cluster sampling using the Swendsen-Wang algorithm
 tags:
 - Sampling
 - Markov Chain Monte Carlo
@@ -55,9 +55,9 @@ Increasing $\beta$ from 0.83 to 0.84, a seemingly small transition, caused a rou
 
 Below we display a sample of the Ising model at coalesence for $\beta = 0.84$ and $\tau = 887$.
 
-{{< figure src="sample_at_coalesence.png" lightbox="true" width="60%" height="60%" >}}
+{{< figure src="sample_at_coalesence.png" lightbox="true" width="55%" height="55%" >}}
 
-We can observe display a plot of the coalesence times $\tau$ for each of the values of $\beta$ = [$\textbf{0.5}$, $\textbf{0.6}$, $\textbf{0.7}$, $\textbf{0.8}$, $\textbf{0.83}$, $\textbf{0.84}$, $\textbf{0.85}$, $\textbf{0.9}$] used in the Ising model.
+We can display a plot of the coalesence times $\tau$ for each of the values of $\beta$ = [$\textbf{0.5}$, $\textbf{0.6}$, $\textbf{0.7}$, $\textbf{0.8}$, $\textbf{0.83}$, $\textbf{0.84}$, $\textbf{0.85}$, $\textbf{0.9}$] used in the Ising model.
 
 {{< figure src="coalesence_times.png" lightbox="true" width="60%" height="60%" >}}
 
@@ -77,4 +77,6 @@ The outstanding observation is that as $\beta$ increases from 0.6 to 0.84, the a
 
 It also seems that larger values of $\beta$ correspond to greater variation in average CP sizes. The value $\beta = 0.84$ caused the most variation and the largest number of sweeps necessary for the constant and checkerboard images to converge to roughly the same CP size per sweep. This is also reasonable, as stronger $\beta$ values promote stronger clustering, which promotes the formation of more and larger clusters, which in turn produces greater variation in cluster sizes.
 
-The Swendsen-Wang clustering method is limited in two ways we have not mentioned. First, it is only valid for the Ising and Potts models. Second, it requires that the number of labels, or colors, $L$ be known. In applications such as image analysis, $L$ may represent the number of objects (or image regions) that have to be inferred from input data. Hence for future work, we would like to explore Data Driven Markov Chain Monte Carlo (DDMCMC) methods, which do not require that the number of labels $L$ be known. Utilizing a Bayesian statistical framework, DDMCMC methods perform image segmentation and hence labeling in a purely data-driven manner.
+The Swendsen-Wang clustering method is limited in two ways we have not mentioned. First, it is only valid for the Ising and Potts models. Second, it requires that the number of labels, or colors, $L$ be known. In applications such as image analysis, $L$ may represent the number of objects (or image regions) that have to be inferred from input data.
+
+For future work, I would like to explore data-driven Markov Chain Monte Carlo methods, which do not require that the number of labels $L$ be known. Utilizing a Bayesian statistical framework, data-driven Markov Chain Monte Carlo methods perform image segmentation and hence labeling in a purely data-driven manner.

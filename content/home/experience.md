@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -18,27 +18,56 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Student"
+  company = "Center for Vision, Cognition, Learning, and Autonomy"
+  company_url = "https://vcla.stat.ucla.edu/people.html"
+  location = "University of California, Los Angeles"
+  date_start = "2019-03-01"
   date_end = ""
-  description = """
-  Responsibilities include:
+  description = """Contributor to multiple papers featured in my publications in the areas of:
 
-  * Analysing
-  * Modelling
-  * Deploying
+  * Computer Vision
+  * Generative Modeling
+  * Natural Language Processing
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Full Stack Software Engineer"
+  company = "NatureBox"
+  company_url = "https://www.naturebox.com"
+  location = "Redwood City, CA"
+  date_start = "2016-03-06"
+  date_end = "2018-01-04"
+  description = """Lead software engineer for new React web application established for a new direct-to-consumer business
+
+  * Frontend and Backend engineering
+  * DB Management, Devops, Deployment
+  * Lead projects internally and with 3rd parties
+  """
+
+[[experience]]
+  title = "Software Engineer"
+  company = "Cinemagram"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "San Francisco, CA"
+  date_start = "2015-09-04"
+  date_end = "2016-02-12"
+  description = """Built internal data interfaces with Ruby, SQL; wrote and ran Snapchat client in PHP for growth campaigns
+
+  * Built internal DB interfaces
+  * Backend engineering
+  """
+
+[[experience]]
+  title = "Software Engineer"
+  company = "Flinja"
+  company_url = ""
+  location = "Los Angeles, CA"
+  date_start = "2012-10-14"
+  date_end = "2014-03-11"
+  description = """Built Flinja website which won VentureBeat and IDG 2012 award for Best Social Platform
+
+  * Frontend engineering
+  """
 
 +++
