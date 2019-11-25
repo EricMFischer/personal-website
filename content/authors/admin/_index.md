@@ -22,8 +22,8 @@ bio: My research interests are in computer vision, natural language processing, 
 
 interests:
 - Computer Vision
-- Natural Language Processing
 - Generative Modeling
+- Natural Language Processing
 
 education:
   courses:
@@ -70,4 +70,4 @@ email: "emfischer712@ucla.edu"
 # - Visitors
 ---
 
-I received my undergraduate degree at UCLA and am currently pursuing a MS in Computer Science with a specialization in Artificial Intelligence. My research interests lie within computer vision, natural language processing, and generative modeling. I am a research student at the Center for Vision, Cognition, Learning, and Autonomy at UCLA.
+I received my undergraduate degree at UCLA and am currently pursuing a MS in Computer Science with a specialization in Artificial Intelligence. My research interests lie within computer vision and generative modeling. I am a research student advised by Professor Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy at UCLA.
