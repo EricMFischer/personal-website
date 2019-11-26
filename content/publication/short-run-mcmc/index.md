@@ -11,6 +11,7 @@ tags:
 - Generative Learning
 - GAN
 - Variational Autoencoder
+- Residual Network
 date: "2019-10-15T00:00:00Z"
 # featured: true
 
@@ -40,15 +41,16 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+I worked on this paper advised by Professor Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy at UCLA.
 
 The short-run Markov Chain Monte Carlo model from this paper (Arxiv link soon) is a valid generative model just like
 a variational autoencoder (VAE) or a generative adversarial network (GAN). We use it to synthesize, interpolate, and reconstruct
 images. Image synthesis is performed by running Langevin dynamics from a uniform noise distribution. And the interpolation
-and reconstruction results rival or are better than VAE and GAN.
+and reconstruction results rival or are qualitatively better than VAE and GAN.
 
-Please note that although this paper has been submitted to CVPR and is under review, the final draft is still being finalized. As a result, all the images and content here are taken from a predecessor paper (arxiv.org/abs/1904.09770) to which I personally did not contribute.
+**Please note** that although this paper has been submitted to CVPR and is under review, the final draft is still being finalized. As a result, the images and content here are taken from a [predecessor paper](https://www.arxiv.org/abs/1904.09770) "On Learning Non-Convergent Non-Persistent Short-Run MCMC Toward Energy-Based Model" to which I personally did not contribute.
 
-As soon as the paper for this study is finished, I will write about it and include its illustrations here, along with removing the present content. In the meantime,  some illustrations and the abstract for a predessor paper "On Learning Non-Convergent Non-Persistent Short-Run MCMC Toward Energy-Based Model" are included for reference:
+As soon as the paper for this study is finished, I will write about it and include it here. In the meantime, the abstract, some illustrations, and a presentation I gave about the predessor paper are included for reference:
 
 **Abstract**: This paper studies a curious phenomenon in learning energy-based model (EBM)
 using MCMC. In each learning iteration, we generate synthesized examples by
@@ -65,12 +67,15 @@ interestingly, unlike traditional EBM or MCMC, the learned short-run MCMC is
 capable of reconstructing observed images and interpolating between images,
 like generator or flow models.
 
-{{< figure src="1.png" lightbox="true" width="90%" height="90%">}}
-{{< figure src="2.png" lightbox="true" width="90%" height="90%">}}
-{{< figure src="3.png" lightbox="true" width="85%" height="85%" >}}
+A related presentation I gave about this paper is here.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTwqWIG_fIb6ZLkgt-gvPCFICmBBC5C4qUC9qRLHeVKR9qdaye4w-sbobeTfbQFK6r2Vrdg5m9W2-q8/embed?start=true&loop=false&delayms=5000" frameborder="0" width="675" height="405" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+{{< figure src="1.png" lightbox="true" width="90%" height="90%" >}}
+{{< figure src="2.png" lightbox="true" width="90%" height="90%" >}}
+{{< figure src="3.png" lightbox="true" width="90%" height="90%" >}}
 {{< figure src="4.png" lightbox="true" width="90%" height="90%" >}}
 {{< figure src="5.png" lightbox="true" width="90%" height="90%" >}}
-{{< figure src="6.png" lightbox="true" width="90%" height="90%">}}
+{{< figure src="6.png" lightbox="true" width="90%" height="90%" >}}
 {{< figure src="7.png" lightbox="true" width="85%" height="85%" >}}
 {{< figure src="8.png" lightbox="true" width="85%" height="85%" >}}
-
