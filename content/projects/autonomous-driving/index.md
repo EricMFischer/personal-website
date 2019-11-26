@@ -1,6 +1,6 @@
 ---
 title: Car Detection for Autonomous Driving
-summary: Achieving high-accuracy in real-time, the YOLO algorithm is applied to car detection for autonomous vehicles
+summary: Achieving high-accuracy in real-time, YOLO algorithm is applied to car detection for autonomous vehicles
 tags:
 - Autonomous Driving
 - Computer Vision

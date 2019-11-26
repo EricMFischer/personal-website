@@ -50,7 +50,7 @@
   translation: Video
 
 - id: btn_code
-  translation: Code
+  translation: Github Code
 
 - id: btn_dataset
   translation: Dataset

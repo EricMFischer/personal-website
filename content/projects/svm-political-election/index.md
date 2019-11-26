@@ -5,6 +5,7 @@ tags:
 - SVM
 - Pattern Recognition
 - Computer Vision
+- Histogram of Oriented Gradients
 date: "2018-11-24T00:00:00Z"
 # featured: false
 

@@ -1,6 +1,6 @@
 ---
 title: Advanced Lane Finding for Self-Driving Cars
-summary: Effort to create camera calibration and image pipeline model for finding lanes on the road for self-driving cars
+summary:  Built advanced lane-finding algorithm using distortion correction, image rectification, color transforms, and gradient thresholding
 tags:
 - Autonomous Driving
 - Computer Vision
@@ -22,7 +22,7 @@ image:
   placement: 1
   caption: Lane detection for self-driving cars
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 
 url_code: "https://github.com/EricMFischer/self-driving-car-nano-degree/tree/master/advanced-lane-lines"
 url_pdf: ""
@@ -73,4 +73,4 @@ With the lane boundary detected, we can determine curvature of the lane and vehi
 
 On the image, we can output the visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
-{{< figure src="featured.png" lightbox="true" width="50%" height="50%" >}}
+{{< figure src="final_result.png" lightbox="true" width="50%" height="50%" >}}

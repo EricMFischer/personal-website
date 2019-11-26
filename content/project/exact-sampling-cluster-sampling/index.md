@@ -1,12 +1,13 @@
 ---
 title: Exact Sampling with Coupled Markov Chains and Swendsen-Wang Cluster Sampling of the Ising Model
-summary: A comparative analysis of exact sampling using coupled Markov chains and cluster sampling using the Swendsen-Wang algorithm
+summary: Convergence analysis of exact sampling with Gibbs sampler and coupled Markov chains vs. cluster sampling with Swendsen-Wang algorithm
 tags:
 - Sampling
 - Markov Chain Monte Carlo
 - Monte Carlo Optimization
 - Exact Sampling
 - Cluster Sampling
+- Gibbs Sampler
 date: "2019-06-12T00:00:00Z"
 # featured: true
 

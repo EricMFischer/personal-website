@@ -1,14 +1,15 @@
 ---
 title: Vehicle Detection for Self-Driving Cars
-summary: Image pipeline model for drawing bounding boxes around cars in a video
+summary: Created vehicle detection and tracking pipeline with OpenCV, histogram of oriented gradients, and SVM, and also with a deep network
 tags:
 - Autonomous Driving
 - Computer Vision
 - Pattern Recognition
-- CNN
 - Image Gradients
 - Object Detection
 - Non-Maximum Suppression
+- Histogram of Oriented Gradients
+- SVM
 date: "2019-06-10T00:00:00Z"
 # featured: true
 
@@ -24,7 +25,7 @@ image:
   placement: 1
   caption: Vehicle Detection for Self-Driving Cars
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 
 url_code: "https://github.com/EricMFischer/self-driving-car-nano-degree/tree/master/vehicle-detection"
 url_pdf: ""
@@ -43,16 +44,22 @@ The objective of this project is to create a pipeline (model) to draw bounding b
 
 * Perform a Histogram of Oriented Gradients (HOG) feature extraction on a labeled training set of images and train a classifier Linear SVM classifier
 * Implement a sliding-window technique and use trained classifier to search for vehicles in images
-* Run pipeline on a video stream and create a heat map of recurring detections frame by frame to reject outliers and follow detected vehicles.
-* Estimate a bounding box for vehicles detected.
+* Run pipeline on a video stream and create a heat map of recurring detections frame by frame to reject outliers and follow detected vehicles
+* Estimate a bounding box for vehicles detected
 
-First we perform a Histogram of Oriented Gradients (HOG) feature extraction on a labeled training set of images, and then we subsequently train a Linear SVM classifier using selected HOG features and colour features.
+First we perform a Histogram of Oriented Gradients (HOG) feature extraction on a labeled training set of images.
 
-Here are two example images, the first from the vehicle class and the second from the non-vehicle class.
-{{< figure src="for_hog.png" lightbox="true" width="25%" height="25%" >}}
+Here are examples of images from the vehicle class and the non-vehicle class.
+{{< figure src="vehicle_hog.png" lightbox="true" width="70%" height="70%" >}}
+
 Here are some visualized HOG features extracted from the images.
-{{< figure src="hog.png" lightbox="true" width="35%" height="50%" >}}
+{{< figure src="hog_descriptors.png" lightbox="true" width="80%" height="80%" >}}
 
-Lastly, we can implement a sliding-window technique and use our trained classifier to find vehicles in images.
-{{< figure src="featured.png" lightbox="true" width="60%" height="60%" >}}
+We can implement a sliding-window technique and use our trained classifier to find vehicles in images.
+{{< figure src="hog_pipeline.png" lightbox="true" width="60%" height="60%" >}}
 
+Initially using HOG features and SVM, a heatmap could average the detection results from successive frames. The heatmap was thresholded to a minimum value before labeling regions, to remove false positive. This process was shown above.
+
+With deep learning, however, we can rely on a confidence score to decide the tradeoff between precision and recall. This next figure shows the effect of thresholding SSD detection at different level of confidence.
+
+{{< figure src="bounding_boxes.png" lightbox="true" width="90%" height="90%" >}}

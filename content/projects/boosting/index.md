@@ -1,6 +1,6 @@
 ---
 title: Face Detection using AdaBoosting and RealBoosting
-summary: If we can predict correctly 50% of the time, then we have a weak classifier, and with many weak classifiers we can do well
+summary: Used AdaBoosting, RealBoosting, Haar Filters, Non-Maximum Suppression, and hard negative mining for the task of face detection
 tags:
 - Boosting
 - AdaBoosting

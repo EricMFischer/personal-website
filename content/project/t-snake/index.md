@@ -1,6 +1,6 @@
 ---
 title: Topology Adaptive Snakes Improve Mask Generation for Image Inpainting
-summary: T-snake deformable models can improve the generated masks passed to a GAN for image inpainting
+summary: T-snake deformable models, which can segment complex-shaped structures, improve generated masks passed to a GAN for image inpainting
 tags:
 - Computer Vision
 - Deformable Model
@@ -8,6 +8,7 @@ tags:
 - Generative Learning
 - Image Inpainting
 - CNN
+- Image Segmentation
 date: "2019-11-25T00:00:00Z"
 # featured: true
 
