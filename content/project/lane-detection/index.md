@@ -1,13 +1,13 @@
 ---
 title: Advanced Lane Finding for Self-Driving Cars
-summary: Effort to create camera calibration and image pipeline model for finding lanes on road for self-driving cars
+summary: Effort to create camera calibration and image pipeline model for finding lanes on the road for self-driving cars
 tags:
 - Autonomous Driving
 - Computer Vision
 - Pattern Recognition
 - CNN
 - Object Detection
-date: "2019-07-30T00:00:00Z"
+date: "2019-06-11T00:00:00Z"
 # featured: true
 
 # Optional external URL for project (replaces project detail page).

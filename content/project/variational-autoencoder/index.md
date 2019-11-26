@@ -1,13 +1,13 @@
 ---
 title: Formulation of Variational Lower Bound and Application of VAE to MNIST Dataset
-summary: Formal derivation of the variational autoencoder and an application to binary image data
+summary: Formulation of the evidence lower bound (ELBO) for the variational autoencoder and an application to synthesizing binary images
 tags:
 - Variational Autoencoder
 - Autoencoder
 - Inference Network
 - Generative Learning
 - Computer Vision
-date: "2019-06-08T00:00:00Z"
+date: "2019-06-04T00:00:00Z"
 # featured: true
 
 # Optional external URL for project (replaces project detail page).

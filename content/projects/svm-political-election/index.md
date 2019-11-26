@@ -1,6 +1,6 @@
 ---
 title: Facial Trait and Political Election Analysis by SVM
-summary: Trained classifiers to infer facial traits from low-level image features
+summary: Trained SVM classifiers to infer 14 facial traits from low-level image features and use that information to make election predictions
 tags:
 - SVM
 - Pattern Recognition

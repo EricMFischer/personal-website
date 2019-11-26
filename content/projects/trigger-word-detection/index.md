@@ -1,6 +1,6 @@
 ---
 title: Trigger Word Detection
-summary: Speech recognition algorithm for trigger word detection, technology behind Alexa, Google Home, and Siri
+summary: Speech recognition algorithm for trigger word detection, the technology behind Alexa, Google Home, and Siri
 tags:
 - Speech Recognition
 - Natural Language Processing

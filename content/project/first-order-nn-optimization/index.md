@@ -1,11 +1,11 @@
 ---
 title: Implementation and Convergence Analysis of First-Order Optimization Methods for a CNN
-summary: Comparison of SGD, SGD with momentum, SGD with Nesterov momentum, RMSprop, and Adam
+summary: Convergence analysis and Python implementations of of SGD, SGD with momentum, SGD with Nesterov momentum, RMSprop, and Adam optimizers
 tags:
 - Optimization
 - First-Order Optimization
 - CNN
-date: "2019-06-04T00:00:00Z"
+date: "2019-06-08T00:00:00Z"
 # featured: true
 
 # Optional external URL for project (replaces project detail page).

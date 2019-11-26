@@ -1,6 +1,6 @@
 ---
-title: Image Style Transfer using Convolutional Neural Networks
-summary: Generates images that reflect content of one image but artistic "style" of other
+title: Neural Style Transfer using Convolutional Neural Networks
+summary: Neural style transfer generates images that reflect the content of one image but the artistic "style" of another
 tags:
 - Image Style Transfer
 - CNN

@@ -1,6 +1,6 @@
 ---
 title: PCA, Autoencoder, and FLD for Facial Analysis
-summary: Compares PCA, an Autoencoder, and Fisher Linear Discriminants for the task of human facial analysis
+summary: Compares PCA, an Autoencoder, and Fisher Linear Discriminants for the task of analyzing human faces
 tags:
 - PCA
 - Autoencoder

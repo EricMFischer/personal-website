@@ -1,6 +1,6 @@
 ---
 title: Face Detection using AdaBoosting and RealBoosting
-summary: If we can predict correctly at least 50% of the time
+summary: If we can predict correctly 50% of the time, then we have a weak classifier, and with many weak classifiers we can do well
 tags:
 - Boosting
 - AdaBoosting
