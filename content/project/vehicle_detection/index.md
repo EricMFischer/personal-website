@@ -23,7 +23,7 @@ external_link: ""
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   placement: 1
-  caption: Vehicle Detection for Self-Driving Cars
+  caption: Vehicle detection for Self-Driving Cars
   focal_point: Smart
   preview_only: false
 
