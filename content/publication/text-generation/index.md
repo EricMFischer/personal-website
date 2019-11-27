@@ -1,6 +1,6 @@
 ---
-title: Text generation with RNN and Attention (actual title TBD)
-summary: Text generation with RNN and Attention
+title: And-Or Graph for Image Parsing to Text Generation
+summary: Utilizes image parsing to text description framework that generates text descriptions based on understanding of image and video content
 tags:
 - Markov Chain Monte Carlo
 - Natural Language Processing
@@ -36,9 +36,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-I am currently working on this paper advised by Professor Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy at UCLA.
+I am currently working on this paper while advised by Professor Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy at UCLA.
 
-**Please note** this research and this paper are currently in progress. The image above is taken from another [paper](https://www.stat.ucla.edu/~sczhu/papers/TMM_Topic_Clustering_Tracking.pdf) at the Vision, Cognition, Learning, and Autonomy lab at UCLA to which I personally did not contribute.
+**Please note** this research and this paper are currently in progress and the title is tentative. The image above is taken from another [paper](http://www.stat.ucla.edu/~sczhu/papers/TMM_Topic_Clustering_Tracking.pdf) at the Vision, Cognition, Learning, and Autonomy lab at UCLA to which I personally did not contribute.
 
 More information will be posted here as this research and paper are finished.
 

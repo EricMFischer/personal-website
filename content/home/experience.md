@@ -24,10 +24,10 @@ date_format = "Jan 2006"
   location = "University of California, Los Angeles"
   date_start = "2019-03-01"
   date_end = ""
-  description = """Contributor to multiple papers featured in my publications in the areas of:
+  description = """Contribute to several research projects that apply MCMC sampling and generative, inference, and energy based models to various image and language tasks; NLP text generation project currently in progress
 
-  * Computer Vision
   * Generative Modeling
+  * Computer Vision
   * Natural Language Processing
   """
 
@@ -38,11 +38,11 @@ date_format = "Jan 2006"
   location = "Redwood City, CA"
   date_start = "2016-03-06"
   date_end = "2018-01-04"
-  description = """Lead software engineer for new React web application established for a new direct-to-consumer business
+  description = """Main contributor for new React web app after Naturebox added direct-to-consumer business
 
-  * Frontend and Backend engineering
-  * DB Management, Devops, Deployment
-  * Lead projects internally and with 3rd parties
+  * Used Flux/React architecture with Flow and ImmutableJS additions; constructed new backend API
+  * Led projects such as Litle to Stripe payment processor migration, Login and Pay with Amazon, Referrals, APIv2
+  * Worked on frontend, backend, and with DB, performed most devops, security tasks, led engineering meetings
   """
 
 [[experience]]
@@ -52,22 +52,20 @@ date_format = "Jan 2006"
   location = "San Francisco, CA"
   date_start = "2015-09-04"
   date_end = "2016-02-12"
-  description = """Built internal data interfaces with Ruby, SQL; wrote and ran Snapchat client in PHP for growth campaigns
+  description = """Worked with JavaScript, Ruby, SQL, and Redis to construct data management interfaces
 
-  * Built internal DB interfaces
-  * Backend engineering
+  * Wrote and ran Snapchat client in PHP for growth campaigns, acquiring 150K users in 6 months
   """
 
 [[experience]]
-  title = "Software Engineer"
+  title = "Frontend Software Engineer"
   company = "Flinja"
   company_url = ""
   location = "Los Angeles, CA"
   date_start = "2012-10-14"
   date_end = "2014-03-11"
-  description = """Built Flinja website which won VentureBeat and IDG 2012 award for Best Social Platform
+  description = """As a main frontend contributor on a small team for startup Flinja, website won DEMO's (VentureBeat/IDG) Fall 2012 DemoGod Award for best social platform
 
-  * Frontend engineering
   """
 
 +++

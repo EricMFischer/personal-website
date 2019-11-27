@@ -41,7 +41,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-I worked on this paper advised by Professor Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy at UCLA.
+I worked on this paper while advised by Professor Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy at UCLA.
 
 The short-run Markov Chain Monte Carlo model from this paper (Arxiv link soon) is a valid generative model just like
 a variational autoencoder (VAE) or a generative adversarial network (GAN). We use it to synthesize, interpolate, and reconstruct
@@ -67,7 +67,7 @@ interestingly, unlike traditional EBM or MCMC, the learned short-run MCMC is
 capable of reconstructing observed images and interpolating between images,
 like generator or flow models.
 
-A related presentation I gave about this paper is here.
+A presentation I gave about this related paper is here.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTwqWIG_fIb6ZLkgt-gvPCFICmBBC5C4qUC9qRLHeVKR9qdaye4w-sbobeTfbQFK6r2Vrdg5m9W2-q8/embed?start=true&loop=false&delayms=5000" frameborder="0" width="675" height="405" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 

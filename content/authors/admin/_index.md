@@ -18,24 +18,24 @@ organizations:
   url: "https://vcla.stat.ucla.edu/people.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in computer vision, natural language processing, and deep generative modeling.
+bio: My research interests are in computer vision, deep generative modeling, and natural language processing.
 
-interests:
-- Computer Vision
-- Generative Modeling
-- Natural Language Processing
+# interests:
+# - Computer Vision
+# - Generative Modeling
+# - Natural Language Processing
 
-education:
-  courses:
+# education:
+  # courses:
   # - course: PhD Artificial Intelligence
     # institution: University of California Los Angeles
     # year: 2023
-  - course: MS Artificial Intelligence
-    institution: University of California Los Angeles
-    year: 2020
-  - course: BA Analytic Philosophy
-    institution: University of California Los Angeles
-    year: 2013
+  # - course: MS Artificial Intelligence
+    # institution: University of California Los Angeles
+    # year: 2020
+  # - course: BA Analytic Philosophy
+    # institution: University of California Los Angeles
+    # year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -70,4 +70,8 @@ email: "emfischer712@ucla.edu"
 # - Visitors
 ---
 
-I received my undergraduate degree at UCLA and am currently pursuing a MS in Computer Science with a specialization in Artificial Intelligence. My research interests lie within computer vision and generative modeling. I am a research student advised by Professor Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy at UCLA.
+I am currently writing a Masters thesis for an MS in Computer Science, advised by Professor Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy ([VCLA](https://vcla.stat.ucla.edu/projects.html)) at UCLA.
+
+Before my Masters, I worked as a Full Stack Software Engineer in the SF Bay Area for 3 years, most recently at NatureBox.
+
+My research interests are in generative modeling for computer vision and natural language processing. I have contributed to several research projects that apply MCMC sampling and generative, inference, and energy based models to various vision and language tasks. Many projects are on my [Github](https://www.github.com/EricMFischer).
