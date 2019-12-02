@@ -18,7 +18,7 @@ organizations:
   url: "https://vcla.stat.ucla.edu/people.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in computer vision, deep generative modeling, and natural language processing.
+bio: My research interests are in generative modeling for computer vision and natural language processing.
 
 # interests:
 # - Computer Vision

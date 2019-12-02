@@ -1,5 +1,5 @@
 ---
-title: And-Or Graph for Image Parsing to Text Generation
+title: Generative Recurrent Language Models with MCMC Inference
 summary: Utilizes image parsing to text description framework that generates text descriptions based on understanding of image and video content
 tags:
 - Markov Chain Monte Carlo
@@ -36,10 +36,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-I am currently working on this paper while advised by Professor Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy at UCLA.
+I worked on this paper, submitted to NeurIPS, while advised by Professor Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy at UCLA.
 
-**Please note** this research and this paper are currently in progress and the title is tentative. The image above is taken from another [paper](http://www.stat.ucla.edu/~sczhu/papers/TMM_Topic_Clustering_Tracking.pdf) at the Vision, Cognition, Learning, and Autonomy lab at UCLA to which I personally did not contribute.
+**Please note** the image above is taken from a related [paper](http://www.stat.ucla.edu/~sczhu/papers/TMM_Topic_Clustering_Tracking.pdf) at the Vision, Cognition, Learning, and Autonomy lab at UCLA.
 
-More information will be posted here as this research and paper are finished.
+More information about this paper will be posted here after the final version is published to Arxiv.
 
 # {{< figure src="1.png" lightbox="true" width="90%" height="90%">}}
