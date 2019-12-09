@@ -8,7 +8,7 @@ tags:
 - Langevin Dynamics
 - Energy Based Model
 - Short-Run MCMC
-- Generative Learning
+- Generative Modeling
 - GAN
 - Variational Autoencoder
 - Residual Network

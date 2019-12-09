@@ -5,7 +5,7 @@ tags:
 - Variational Autoencoder
 - Autoencoder
 - Inference Network
-- Generative Learning
+- Generative Modeling
 - Computer Vision
 date: "2019-06-04T00:00:00Z"
 # featured: true

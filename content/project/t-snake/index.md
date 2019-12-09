@@ -5,7 +5,7 @@ tags:
 - Computer Vision
 - Deformable Model
 - Topology Adaptive Snakes
-- Generative Learning
+- Generative Modeling
 - Image Inpainting
 - CNN
 - Image Segmentation
