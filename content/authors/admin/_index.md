@@ -75,3 +75,6 @@ I am currently writing a Masters thesis for an MS in Computer Science, advised b
 Before my Masters, I worked as a Full Stack Software Engineer in the SF Bay Area for 3 years, most recently at NatureBox.
 
 My research interests are in generative modeling for computer vision and natural language processing. I have contributed to several research projects that apply MCMC sampling and generative, inference, and energy based models to various vision and language tasks. Many projects are on my [Github](https://www.github.com/EricMFischer).
+
+
+{{% staticref "files/statement_of_purpose.pdf" %}}<span style="color:red; text-decoration:underline;">PhD Statement of Purpose</span>{{% /staticref %}} (with research updates)

@@ -44,3 +44,8 @@
   name = "CV"
   url = "files/cv.pdf"
   weight = 70
+
+[[main]]
+  name = "PhD Statement of Purpose"
+  url = "files/statement_of_purpose.pdf"
+  weight = 80
