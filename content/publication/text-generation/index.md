@@ -36,7 +36,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-I worked on this paper as a **co-author**, soon under review at a top conference in NLP, while advised by Professor Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy at UCLA.
+I **co-authored** this paper, soon under review at a top conference in NLP, while advised by Dr. Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy at UCLA.
 
 **Please note** the image above is taken from a related [paper](http://www.stat.ucla.edu/~sczhu/papers/TMM_Topic_Clustering_Tracking.pdf) at the Vision, Cognition, Learning, and Autonomy lab at UCLA.
 
