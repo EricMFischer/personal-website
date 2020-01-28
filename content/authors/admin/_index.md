@@ -70,7 +70,7 @@ email: "emfischer712@ucla.edu"
 # - Visitors
 ---
 
-I am currently editing and adding significant content to a book covering statistical modeling and learning in vision and cognition,soon to be released by my advisor, Dr. Song-Chun Zhu, and Dr. Ying Nian Wu at UCLA. I am also writing a Masters thesis for an MS in Computer Science, under Dr. Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy ([VCLA](https://vcla.stat.ucla.edu/projects.html)) at UCLA.
+I am currently editing and adding significant content to a book covering statistical modeling and learning in vision and cognition, soon to be released by my advisor, Dr. Song-Chun Zhu, and Dr. Ying Nian Wu at UCLA. I am also writing a Masters thesis for an MS in Computer Science, under Dr. Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy ([VCLA](https://vcla.stat.ucla.edu/projects.html)) at UCLA.
 
 Before my Masters, I worked as a Full Stack Software Engineer in the San Francisco Bay Area for 3 years, most recently at NatureBox.
 
