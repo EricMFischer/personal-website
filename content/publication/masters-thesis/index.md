@@ -1,14 +1,12 @@
 ---
-title: Masters Thesis in Generative Modeling in Vision and Language
+title: Masters Thesis in Generative Modeling in Vision
 summary: Thesis for Computer Science Masters program currently in progress under my advisor Dr. Song-Chun Zhu at UCLA
 tags:
 - Markov Chain Monte Carlo
-- Natural Language Processing
 - Computer Vision
 - Generative Modeling
-- RNN
-- Sequence Model
-- CNN
+- Unsupervised Learning
+- Semi-Supervised Learning
 date: "2019-10-05T00:00:00Z"
 # featured: true
 

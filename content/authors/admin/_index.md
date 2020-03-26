@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: MS Artificial Intelligence
+role: PhD Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://vcla.stat.ucla.edu/people.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in generative modeling for computer vision and natural language processing. Specifically, I am interested in applying generative learning techniques to language problems.
+bio: My research interests are in generative modeling and multi-agent systems.
 
 # interests:
 # - Computer Vision
@@ -70,11 +70,11 @@ email: "emfischer712@ucla.edu"
 # - Visitors
 ---
 
-I am currently editing and adding significant content to a book covering statistical modeling and learning in vision and cognition, soon to be released by my advisor, Dr. Song-Chun Zhu, and Dr. Ying Nian Wu at UCLA. I am also writing a Masters thesis for an MS in Computer Science, under Dr. Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy ([VCLA](https://vcla.stat.ucla.edu/projects.html)) at UCLA.
+I am currently writing a Masters thesis for an MS in Computer Science, under Dr. Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy ([VCLA](https://vcla.stat.ucla.edu/projects.html)) at UCLA.
 
-Before my Masters, I worked as a Full Stack Software Engineer in the San Francisco Bay Area for 3 years, most recently at NatureBox.
+Before my Masters, I worked as a Full Stack Software Engineer in the San Francisco Bay Area for almost three years, most recently at NatureBox.
 
-My research interests are in generative modeling for computer vision and natural language processing. Specifically, I am interested in applying generative learning techniques to language problems. I have contributed to several research projects that apply MCMC sampling and generative, inference, and/or energy based models to various vision and language tasks. Many projects are on my [Github](https://www.github.com/EricMFischer).
+My research interests are in generative modeling and multi-agent systems. I have contributed to several research projects that apply MCMC sampling and generative, inference, and energy based models to various vision and language tasks. Many projects are on my [Github](https://www.github.com/EricMFischer).
 
 
 {{% staticref "files/statement_of_purpose.pdf" %}}<span style="color:red; text-decoration:underline;">PhD Statement of Purpose</span>{{% /staticref %}} (Updated 1/28/2020)
