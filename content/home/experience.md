@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "University of California, Los Angeles"
   date_start = "2019-03-01"
   date_end = ""
-  description = """Contribute to several research projects that apply MCMC sampling and generative, inference, and energy based models to various image and language tasks; NLP text generation project currently in progress
+  description = """Contributed to several research projects that apply MCMC sampling and generative models to various vision and language tasks. Currently work on multi-agent systems for a smart society
 
   * Generative Modeling
   * Computer Vision

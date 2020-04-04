@@ -1,6 +1,6 @@
 ---
-title: Short-Run MCMC Residual Network toward Energy Based Model
-summary: Non-convergent non-persistent short-run MCMC residual network beats VAE and GAN for image synthesis, interpolation, and reconstruction
+title: Learning Deep Generative Models with Short Run Inference Dynamics
+summary: Short Run MCMC sampling is utilized in a deep generative model with multiple layers of latent variables
 tags:
 - Computer Vision
 - Markov Chain Monte Carlo
@@ -41,7 +41,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-I worked on this paper, submitted to CVPR, while advised by Professor Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy at UCLA.
+I ran experiments for this paper, submitted to CVPR, while advised by Professor Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy at UCLA. The following is some background  describing the short-run MCMC model.
 
 The short-run Markov Chain Monte Carlo model can be considered a valid generative model just like
 a variational autoencoder (VAE) or a generative adversarial network (GAN). We use it to synthesize, interpolate, and reconstruct

@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Artificial Intelligence
+role: PhD Statistics with emphasis in Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
@@ -70,11 +70,8 @@ email: "emfischer712@ucla.edu"
 # - Visitors
 ---
 
-I am currently writing a Masters thesis for an MS in Computer Science, under Dr. Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy ([VCLA](https://vcla.stat.ucla.edu/projects.html)) at UCLA.
+I am currently writing a Masters thesis for an MS in Computer Science, advised by Dr. Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy ([VCLA](https://vcla.stat.ucla.edu/projects.html)) at UCLA.
 
 Before my Masters, I worked as a Full Stack Software Engineer in the San Francisco Bay Area for almost three years, most recently at NatureBox.
 
-My research interests are in generative modeling and multi-agent systems. I have contributed to several research projects that apply MCMC sampling and generative, inference, and energy based models to various vision and language tasks. Many projects are on my [Github](https://www.github.com/EricMFischer).
-
-
-{{% staticref "files/statement_of_purpose.pdf" %}}<span style="color:red; text-decoration:underline;">PhD Statement of Purpose</span>{{% /staticref %}} (Updated 1/28/2020)
+My research interests are in generative modeling and multi-agent systems. I have contributed to several research projects that apply MCMC sampling and generative models to various vision and language tasks. Many projects are on my [Github](https://www.github.com/EricMFischer).

@@ -1,6 +1,6 @@
 ---
 title: Masters Thesis in Generative Modeling in Vision
-summary: Thesis for Computer Science Masters program currently in progress under my advisor Dr. Song-Chun Zhu at UCLA
+summary: Thesis for UCLA Computer Science Masters program currently in progress
 tags:
 - Markov Chain Monte Carlo
 - Computer Vision
@@ -36,7 +36,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-I am currently working on my Masters thesis while advised by Dr. Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy at UCLA.
+I am currently working on my Masters thesis, advised by Dr. Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy at UCLA.
 
 More information about my thesis will be posted here as it is finished.
 
