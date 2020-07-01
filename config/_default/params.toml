@@ -111,7 +111,7 @@ office_hours = []
 contact_links = [
   {icon = "github", icon_pack = "fab", name = "Github", link = "https://github.com/ericmfischer"},
   {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/ericmfischer/"},
-  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/ericmfischer"},
+  # {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/ericmfischer"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
