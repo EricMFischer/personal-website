@@ -71,6 +71,6 @@ email: "emfischer712@ucla.edu"
 
 I'm a first-year Statistics Ph.D. student with a specialization in artificial intelligence, advised by Dr. Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy ([VCLA](https://vcla.stat.ucla.edu/projects.html)) at UCLA. My emphasis is in natural language processing and generative modeling. Many projects are on my [Github](https://www.github.com/EricMFischer) page.
 
-I obtained an M.S. in Computer Science with a specialization in artificial intelligence and a B.A. in Philosophy with an emphasis in philosophy of language, both from UCLA.
+I obtained a Master of Science in Computer Science with a specialization in artificial intelligence and a Bachelor of Arts in Philosophy with an emphasis in philosophy of language, both from UCLA.
 
 Before my Masters, I worked as a Full Stack Software Engineer in San Francisco bay area for 3 years.
