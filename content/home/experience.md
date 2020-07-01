@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   location = "San Francisco, CA"
   date_start = "2015-09-04"
   date_end = "2016-02-12"
-  description = """Worked with JavaScript, Ruby, SQL, and Redis to construct data management interfaces
+  description = """Worked with JavaScript, Ruby, SQL, and Redis to construct internal data management tools
   """
 
 [[experience]]

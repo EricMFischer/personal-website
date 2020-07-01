@@ -60,7 +60,7 @@ social:
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "emfischer712@ucla.edu"
+email: "emfischer712 at ucla dot edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -73,4 +73,4 @@ I'm a first-year Statistics Ph.D. student with a specialization in artificial in
 
 I obtained a Master of Science in Computer Science with a specialization in artificial intelligence and a Bachelor of Arts in Philosophy with an emphasis in philosophy of language, both from UCLA.
 
-Before my Masters, I worked as a Full Stack Software Engineer in San Francisco bay area for 3 years.
+Before my Masters, I worked as a Full Stack Software Engineer in the San Francisco bay area for 3 years.

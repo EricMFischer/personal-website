@@ -1,5 +1,5 @@
 ---
-title: Learning Multi-Layer Latent Variable Model with Short Run Inference Dynamics
+title: Learning Multi-Layer Latent Variable Model with Short Run MCMC Inference Dynamics
 summary: Short Run MCMC sampling is utilized in a deep generative model with multiple layers of latent variables
 tags:
 - Computer Vision
@@ -30,7 +30,7 @@ image:
   preview_only: false
 
 url_code: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/abs/1912.01909"
 url_slides: ""
 url_video: ""
 

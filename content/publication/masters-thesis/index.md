@@ -1,6 +1,6 @@
 ---
 title: Deep Generative Classifier with Short Run Inference
-summary: For UCLA MS Thesis, a deep generative classifier employs Short Run Markov Chain Monte Carlo inference with Langevin dynamics and backpropagation through time
+summary: Deep generative classifier employs Short Run Markov Chain Monte Carlo inference with Langevin dynamics and backpropagation through time
 tags:
 - Markov Chain Monte Carlo
 - Computer Vision
@@ -28,7 +28,7 @@ image:
   preview_only: false
 
 url_code: ""
-url_pdf: ""
+url_pdf: "https://escholarship.org/uc/item/8kx4z8qw"
 url_slides: ""
 url_video: ""
 
