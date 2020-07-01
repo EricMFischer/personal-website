@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Statistics with emphasis in Artificial Intelligence
+role: Ph.D. Statistics with specialization in Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +18,23 @@ organizations:
   url: "https://vcla.stat.ucla.edu/people.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in generative modeling and multi-agent systems.
+bio: My research interests are in natural language processing and generative modeling.
 
 # interests:
 # - Computer Vision
 # - Generative Modeling
 # - Natural Language Processing
 
-# education:
-  # courses:
-  # - course: PhD Artificial Intelligence
-    # institution: University of California Los Angeles
-    # year: 2023
-  # - course: MS Artificial Intelligence
-    # institution: University of California Los Angeles
-    # year: 2020
-  # - course: BA Analytic Philosophy
-    # institution: University of California Los Angeles
-    # year: 2013
+education:
+  courses:
+  - course: Ph.D. Statistics
+    institution: University of California, Los Angeles
+  - course: M.S. Computer Science
+    institution: University of California, Los Angeles
+    year: 2020
+  - course: B.A. Philosophy
+    institution: University of California, Los Angeles
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -51,9 +50,9 @@ social:
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/ericmfischer/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ericmfischer
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/ericmfischer
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -70,8 +69,8 @@ email: "emfischer712@ucla.edu"
 # - Visitors
 ---
 
-I am currently writing a Masters thesis for an MS in Computer Science, advised by Dr. Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy ([VCLA](https://vcla.stat.ucla.edu/projects.html)) at UCLA.
+I'm a first-year Statistics Ph.D. student with a specialization in artificial intelligence, advised by Dr. Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy ([VCLA](https://vcla.stat.ucla.edu/projects.html)) at UCLA. My emphasis is in natural language processing and generative modeling. Many projects are on my [Github](https://www.github.com/EricMFischer).
 
-Before my Masters, I worked as a Full Stack Software Engineer in the San Francisco Bay Area for almost three years, most recently at NatureBox.
+I obtained an M.S. in Computer Science with a specialization in artificial intelligence and a B.A. in Philosophy with an emphasis in philosophy of language, both from UCLA.
 
-My research interests are in generative modeling and multi-agent systems. I have contributed to several research projects that apply MCMC sampling and generative models to various vision and language tasks. Many projects are on my [Github](https://www.github.com/EricMFischer).
+Before my Masters, I worked as a Full Stack Software Engineer in San Francisco for 3 years.

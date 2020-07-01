@@ -1,5 +1,5 @@
 ---
-title: Learning Deep Generative Models with Short Run Inference Dynamics
+title: Learning Multi-Layer Latent Variable Model with Short Run Inference Dynamics
 summary: Short Run MCMC sampling is utilized in a deep generative model with multiple layers of latent variables
 tags:
 - Computer Vision
@@ -41,31 +41,14 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-I ran experiments for this paper, submitted to CVPR, while advised by Professor Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy at UCLA. The following is some background  describing the short-run MCMC model.
+I ran experiments for this paper, submitted to CVPR, while advised by Dr. Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy at UCLA.
 
 The short-run Markov Chain Monte Carlo model can be considered a valid generative model just like
 a variational autoencoder (VAE) or a generative adversarial network (GAN). We use it to synthesize, interpolate, and reconstruct
 images. Image synthesis is performed by running Langevin dynamics from a uniform noise distribution, and the interpolation
 and reconstruction results rival or are qualitatively better than a VAE and GAN.
 
-**Please note** that more information about this paper will be posted here after the final version is published to Arxiv. In the meantime, the images and content below are taken from a predecessor [paper](https://www.arxiv.org/abs/1904.09770), "On Learning Non-Convergent Non-Persistent Short-Run MCMC Toward Energy-Based Model."
-
-**Abstract**: This paper studies a curious phenomenon in learning energy-based model (EBM)
-using MCMC. In each learning iteration, we generate synthesized examples by
-running a non-convergent, non-mixing, and non-persistent short-run MCMC toward
-the current model, always starting from the same initial distribution such as uniform
-noise distribution, and always running a fixed number of MCMC steps. After
-generating synthesized examples, we then update the model parameters according
-to the maximum likelihood learning gradient, as if the synthesized examples are fair
-samples from the current model. We treat this non-convergent short-run MCMC
-as a learned generator model or a flow model. We provide arguments for treating
-the learned non-convergent short-run MCMC as a valid model. We show that
-the learned short-run MCMC is capable of generating realistic images. More
-interestingly, unlike traditional EBM or MCMC, the learned short-run MCMC is
-capable of reconstructing observed images and interpolating between images,
-like generator or flow models.
-
-A presentation I gave about the predecessor paper is here.
+A presentation I gave about a related paper is below.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTwqWIG_fIb6ZLkgt-gvPCFICmBBC5C4qUC9qRLHeVKR9qdaye4w-sbobeTfbQFK6r2Vrdg5m9W2-q8/embed?start=true&loop=false&delayms=5000" frameborder="0" width="675" height="405" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
