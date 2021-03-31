@@ -1,6 +1,6 @@
 ---
 title: Book 2
-summary:
+summary: I edited several chapters of "Stochastic Grammars for Scene Parsing", a textbook authored by my Ph.D. advisor Dr. Song-Chun Zhu.
 tags:
 date: "2020-07-17T00:00:00Z"
 # featured: true
@@ -31,4 +31,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-Book 2 in PDF form.
+This is a draft of "Stochastic Grammars for Scene Parsing" as of June 2021.

@@ -21,10 +21,20 @@ date_format = "Jan 2006"
   title = "Graduate Student Researcher"
   company = "Center for Vision, Cognition, Learning, and Autonomy"
   company_url = "https://vcla.stat.ucla.edu/people.html"
-  location = "University of California, Los Angeles"
-  date_start = "2019-03-01"
+  location = "Los Angeles, CA
+  date_start = "2018-12-01"
   date_end = ""
-  description = """Contribute to several NLP and generative modeling research projects with PhD students and other engineers
+  description = """Investigate generative learning research questions with Ph.D. students in research lab
+  """
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "University of California, Los Angeles"
+  company_url = ""
+  location = "Los Angeles, CA"
+  date_start = "2020-3-01"
+  date_end = ""
+  description = """Teaching assistant for courses: STATS 10 - Introduction to Statistical Reasoning, STATS 102 - Introduction to Monte Carlo Methods; Grader for courses: STATS 21 - Python and Other Technologies for Data Science
   """
 
 [[experience]]
@@ -32,9 +42,9 @@ date_format = "Jan 2006"
   company = "NatureBox"
   company_url = "https://www.naturebox.com"
   location = "Redwood City, CA"
-  date_start = "2016-03-06"
-  date_end = "2018-01-04"
-  description = """Main architect of new Flux/React web application after company added direct-to-consumer business; Led the following projects: Stripe payment processor migration, Login and Pay with Amazon, API v2
+  date_start = "2016-03-01"
+  date_end = "2017-12-01"
+  description = """Core contributor to new Flux/React web application after company added direct-to-consumer business; Led various projects including a payment processor migration, addition of Amazon payments, and a 2nd version of API
   """
 
 [[experience]]
@@ -42,19 +52,19 @@ date_format = "Jan 2006"
   company = "Cinemagram"
   company_url = ""
   location = "San Francisco, CA"
-  date_start = "2015-09-04"
-  date_end = "2016-02-12"
-  description = """Worked with JavaScript, Ruby, SQL, and Redis to construct internal data management tools
+  date_start = "2015-09-01"
+  date_end = "2015-12-01"
+  description = """Worked with Python, Ruby, and SQL code to construct internal data interfaces and tools
   """
 
 [[experience]]
-  title = "SAT, ACT, and GRE Test Instructor"
-  company = "Veritas Prep"
-  company_url = ""
-  location = "Malibu, CA"
-  date_start = "2011-01-01"
-  date_end = "2016-02-12"
-  description = """Have tutored hundreds of students privately and in classes for the SAT, ACT, GRE, and other subjects
+  title = "Wealth Advisor Associate"
+  company = "ClearPath Capital Partners"
+  company_url = "https://clearpathcapital.com/"
+  location = "San Francisco, CA"
+  date_start = "2014-06-01"
+  date_end = "2013-09-01"
+  description = """Passed Series 65 (Uniform Investment Adviser Law Exam) to acquire securities license as an investment advisor
   """
 
 +++
