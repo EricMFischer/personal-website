@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company = "University of California, Los Angeles"
   company_url = ""
   location = "Los Angeles, CA"
-  date_start = "2020-3-01"
+  date_start = "2020-03-01"
   date_end = ""
   description = """Teaching assistant for courses: STATS 10 - Introduction to Statistical Reasoning, STATS 102 - Introduction to Monte Carlo Methods; Grader for courses: STATS 21 - Python and Other Technologies for Data Science
   """

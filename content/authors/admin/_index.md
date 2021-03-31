@@ -18,7 +18,7 @@ organizations:
   url: "https://vcla.stat.ucla.edu/people.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in generative learning.
+bio: My research interests are in artificial intelligence, brain-machine interfaces, and neuroscience.
 
 # interests:
 # - Computer Vision
@@ -71,6 +71,6 @@ email: "emfischer712 at ucla dot edu"
 
 I am a first-year Ph.D. student specializing in artificial intelligence in the Department of Statistics at the University of California, Los Angeles. I carry out generative learning research using Markov chain Monte Carlo (MCMC) methods at the Center for Vision, Cognition, Learning, and Autonomy ([VCLA](https://vcla.stat.ucla.edu/projects.html)) and am advised by Dr. Song-Chun Zhu.
 
-I earned a Masters from the Department of Computer Science at UCLA and submitted a thesis Deep Generative Classifier with Short Run Inference, for which I built a deep generative classifier that utilizes short-run MCMC inference, Langevin dynamics, and backpropagation through time to achieve similar classification accuracy to an analogous convolutional neural network, but with the added benefits that it may generate data, may learn unsupervised from additional unlabeled data, and it exhibits robustness to adversarial attacks, due to the stochasticity of the Langevin equation and the top-down architecture of the underlying generator network.
+I earned a Masters from the Department of Computer Science at UCLA and submitted a thesis "Deep Generative Classifier with Short Run Inference," for which I built a deep generative classifier that utilizes short-run MCMC inference, Langevin dynamics, and backpropagation through time to achieve similar classification accuracy to an analogous convolutional neural network, but with the added benefits that it may generate data, may learn unsupervised from additional unlabeled data, and it exhibits robustness to adversarial attacks, due to the stochasticity of the Langevin equation and the top-down architecture of the underlying generator network.
 
 Before my Masters, I worked as a Full Stack Software Engineer in the San Francisco bay area for over 2 years, most recently at NatureBox in Redwood City. Here is my [Github](https://www.github.com/EricMFischer).

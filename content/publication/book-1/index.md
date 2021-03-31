@@ -31,4 +31,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-This is a draft of "Statistical Models for Marr’s Paradigm" as of June 2021.
+This is a draft of "Statistical Models for Marr’s Paradigm" as of July 2020.

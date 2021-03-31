@@ -31,4 +31,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-This is a draft of "Stochastic Grammars for Scene Parsing" as of June 2021.
+This is a draft of "Stochastic Grammars for Scene Parsing" as of July 2020.
