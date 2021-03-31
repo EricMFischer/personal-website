@@ -1,6 +1,6 @@
 ---
 title: Deep Generative Classifier with Short Run Inference
-summary: Deep generative classifier employs Short Run Markov Chain Monte Carlo inference with Langevin dynamics and backpropagation through time
+summary: Deep generative classifier utilizes short-run Markov chain Monte Carlo inference, Langevin dynamics, and backpropagation through time to achieve similar classification accuracy to an analogous convolutional neural network, but with the added benefits that it may generate data, may learn unsupervised from additional unlabeled data, and it exhibits robustness to adversarial attacks, due to the stochasticity of the Langevin equation and the top-down architecture of the underlying generator network
 tags:
 - Markov Chain Monte Carlo
 - Computer Vision
