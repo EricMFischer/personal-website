@@ -1,6 +1,6 @@
 ---
 title: Book 1
-summary: I wrote two chapters and edited several others of "Statistical Models for Marr’s Paradigm", a textbook authored by my Ph.D. advisor Dr. Song-Chun Zhu, which summarizes over 20 years of artificial intelligence research at UCLA.
+summary: I wrote two chapters and edited several others of "Statistical Models for Marr’s Paradigm", a textbook authored by my Ph.D. advisor Dr. Song-Chun Zhu and Dr. Ying Nian Wu, which summarizes over 20 years of artificial intelligence research at UCLA.
 tags:
 date: "2020-07-17T00:00:00Z"
 # featured: true

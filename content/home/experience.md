@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Los Angeles, CA"
   date_start = "2018-12-01"
   date_end = ""
-  description = """Investigate generative learning research questions with Ph.D. students in research lab
+  description = """Perform generative learning research on language models with other lab members
   """
 
 [[experience]]
