@@ -1,5 +1,5 @@
 ---
-title: Learning Multi-Layer Latent Variable Model with Short Run MCMC Inference Dynamics
+title: Learning Multi-Layer Latent Variable Model via Variational Optimization of Short Run MCMC for Approximate Inference
 summary: Ran experiments for a short-run MCMC residual network that outperforms a variational autoencoder in terms of image reconstruction error and image synthesis quality, while not requiring the design of a separate inference network
 tags:
 - Computer Vision
