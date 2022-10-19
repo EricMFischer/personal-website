@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Statistics with a specialization in artificial intelligence
+role: Statistics Ph.D. student with a specialization in artificial intelligence
 
 # Organizations/Affiliations
 organizations:
