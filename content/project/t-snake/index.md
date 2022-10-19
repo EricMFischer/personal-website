@@ -9,7 +9,7 @@ tags:
 - Image Inpainting
 - CNN
 - Image Segmentation
-date: "2019-06-02T00:00:00Z"
+date: "2019-06-03T00:00:00Z"
 # featured: true
 
 # Optional external URL for project (replaces project detail page).
