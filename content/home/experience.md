@@ -57,14 +57,4 @@ date_format = "Jan 2006"
   description = """Worked with Python, Ruby, and SQL code to construct internal data management interfaces and tools
   """
 
-<!-- [[experience]]
-  title = "Wealth Advisor Associate"
-  company = "ClearPath Capital Partners"
-  company_url = "https://clearpathcapital.com/"
-  location = "San Francisco, CA"
-  date_start = "2014-06-01"
-  date_end = "2013-09-01"
-  description = """Earned Series 65 (Uniform Investment Adviser Law Exam) license to act as an investment advisor in California
-  """ -->
-
 +++
