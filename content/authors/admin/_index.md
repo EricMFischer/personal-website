@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Eric M. Fischer
+name: Eric Fischer
 
 # Username (this should match the folder name)
 authors:
@@ -10,19 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Statistics with specialization in artificial intelligence
+role: Ph.D. Statistics with a specialization in artificial intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: University of California Los Angeles
-  url: "https://vcla.stat.ucla.edu/people.html"
+- name: University of California, Los Angeles
 
 # Short bio (displayed in user profile at end of posts)
-bio: I carry out generative learning research on language models.
+bio: I perform generative modeling research on vision and language problems.
 
 # interests:
-# - Computer Vision
 # - Generative Modeling
+# - Computer Vision
 # - Natural Language Processing
 
 education:
@@ -50,9 +49,9 @@ social:
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/ericmfischer/
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/ericmfischer
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/ericmfischer
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -69,8 +68,8 @@ email: "emfischer712 at ucla dot edu"
 # - Visitors
 ---
 
-I am a first-year Ph.D. student specializing in artificial intelligence in the Department of Statistics at the University of California, Los Angeles. I carry out generative learning research on language models at the Center for Vision, Cognition, Learning, and Autonomy ([VCLA](https://vcla.stat.ucla.edu/projects.html)) and am advised by Dr. Song-Chun Zhu.
+I am a Ph.D. student with a specialization in artificial intelligence from the Department of Statistics at the University of California, Los Angeles. I perform generative modeling research at the Center for Vision, Cognition, Learning, and Autonomy ([VCLA](https://vcla.stat.ucla.edu/index.html)) at UCLA. My advisors are Dr. Ying Nian Wu and Dr. Song-Chun Zhu.
 
-I earned a Masters from the Department of Computer Science at UCLA and submitted a thesis "[Deep Generative Classifier with Short Run Inference](https://escholarship.org/uc/item/8kx4z8qw)," for which I built a deep generative classifier that utilizes short-run MCMC inference, Langevin dynamics, and backpropagation through time to achieve similar classification accuracy to an analogous convolutional neural network, but with the added benefits that it may generate data, may learn unsupervised from additional unlabeled data, and it exhibits robustness to adversarial attacks, due to the stochasticity of the Langevin equation and the top-down architecture of the underlying generator network.
+I also earned a Master of Science from the Department of Computer Science at UCLA, submitting a thesis "[Deep Generative Classifier with Short Run Inference](https://escholarship.org/uc/item/8kx4z8qw)." In this paper, a deep generative classifier uses Short Run Markov Chain Monte Carlo inference, Langevin dynamics, and backpropagation through time to achieve similar classification accuracy as an analogous discriminative classifier, i.e., a convolutional neural network, while it has the advantages that it can generate data, it can learn unsupervised with additional unlabeled data, and it exhibits robustness to adversarial attacks due to the stochasticity of the Langevin equation and the top-down architecture of the underlying generator network.
 
 Before my Masters, I worked as a Full Stack Software Engineer in the San Francisco bay area for over 2 years, most recently at NatureBox in Redwood City. I earned a Bachelors from the Department of Philosophy at UCLA, focusing my studies on first-order logic and language. Here is my [Github](https://www.github.com/EricMFischer).

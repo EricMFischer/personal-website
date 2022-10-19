@@ -5,7 +5,7 @@ tags:
 - Optimization
 - First-Order Optimization
 - CNN
-date: "2019-06-08T00:00:00Z"
+date: "2019-06-03T00:00:00Z"
 # featured: true
 
 # Optional external URL for project (replaces project detail page).

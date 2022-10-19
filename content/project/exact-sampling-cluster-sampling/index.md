@@ -8,7 +8,7 @@ tags:
 - Exact Sampling
 - Cluster Sampling
 - Gibbs Sampler
-date: "2019-06-12T00:00:00Z"
+date: "2019-06-04T00:00:00Z"
 # featured: true
 
 # Optional external URL for project (replaces project detail page).

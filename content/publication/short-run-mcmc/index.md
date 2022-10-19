@@ -12,7 +12,7 @@ tags:
 - GAN
 - Variational Autoencoder
 - Residual Network
-date: "2019-10-15T00:00:00Z"
+date: "2019-10-01T00:00:00Z"
 # featured: true
 
 # Optional external URL for project (replaces project detail page).
@@ -41,7 +41,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-I ran experiments for this paper, submitted to CVPR, while advised by Dr. Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy at UCLA.
+Contributed to this paper, submitted to CVPR, while advised by Dr. Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy at UCLA.
 
 The short-run Markov Chain Monte Carlo model can be considered a valid generative model just like
 a variational autoencoder (VAE) or a generative adversarial network (GAN). We use it to synthesize, interpolate, and reconstruct

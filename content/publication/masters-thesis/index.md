@@ -1,6 +1,6 @@
 ---
 title: Deep Generative Classifier with Short Run Inference
-summary: Deep generative classifier utilizes short-run Markov chain Monte Carlo inference, Langevin dynamics, and backpropagation through time to achieve similar classification accuracy to an analogous convolutional neural network, but with the added benefits that it may generate data, may learn unsupervised from additional unlabeled data, and it exhibits robustness to adversarial attacks, due to the stochasticity of the Langevin equation and the top-down architecture of the underlying generator network
+summary: Deep generative classifier uses Short Run Markov Chain Monte Carlo inference, Langevin dynamics, and backpropagation through time to achieve similar classification accuracy as an analogous discriminative classifier, i.e., a convolutional neural network, while it has the advantages that it can generate data, it can learn unsupervised with additional unlabeled data, and it exhibits robustness to adversarial attacks due to the stochasticity of the Langevin equation and the top-down architecture of the underlying generator network.
 tags:
 - Markov Chain Monte Carlo
 - Computer Vision
@@ -39,7 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-I completed my Masters thesis while advised by Dr. Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy at UCLA.
+I submitted my Masters thesis while advised by Dr. Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy at UCLA.
 
 A deep generative classifier employs Short Run Markov Chain Monte Carlo inference with Langevin dynamics and backpropagation through time. In contrast to a convolutional neural network (ConvNet) with analogous architecture, the Short Run classifier approaches the same classification accuracy and (1) may synthesize data, (2) may learn unsupervised from additional unannotated data, and (3) exhibits robustness to adversarial attacks, due to the stochasticity of the Langevin equation and the top-down architecture of the generator network. The ConvNet classifier lacks the ability to perform (1) or (2) and possesses no defense against adversarial attacks, a critical concern for any deployed machine learning system. Meanwhile, the Short Run classifier demonstrates the capacity to improve in both classification accuracy and the quality of data synthesis, given additional unannotated data.
 

@@ -1,8 +1,8 @@
 ---
-title: Book 1
-summary: I wrote two chapters and edited several others of "Statistical Models for Marr’s Paradigm", a textbook authored by my Ph.D. advisor Dr. Song-Chun Zhu and Dr. Ying Nian Wu, which summarizes over 20 years of artificial intelligence research at UCLA.
+title: Statistical Models for Marr’s Paradigm
+summary: Wrote two chapters and edited several others of "Statistical Models for Marr’s Paradigm," a textbook authored by my Ph.D. advisors Dr. Song-Chun Zhu and Dr. Ying Nian Wu that summarizes over 20 years of artificial intelligence research at UCLA.
 tags:
-date: "2020-07-17T00:00:00Z"
+date: "2019-09-01T00:00:00Z"
 # featured: true
 
 # Optional external URL for project (replaces project detail page).
@@ -31,4 +31,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-This is a draft of "Statistical Models for Marr’s Paradigm" as of July 2020.
+Included is a draft of "Statistical Models for Marr’s Paradigm" as of July 2020.
