@@ -17,7 +17,7 @@ organizations:
 - name: University of California, Los Angeles
 
 # Short bio (displayed in user profile at end of posts)
-bio: I perform generative modeling research on vision and language problems.
+bio: I perform research on energy-based generative models for problems in computer vision and natural language processing.
 
 # interests:
 # - Generative Modeling

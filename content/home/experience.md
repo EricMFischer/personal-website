@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Los Angeles, CA"
   date_start = "2018-12-01"
   date_end = ""
-  description = """Perform generative modeling research on vision and language problems with other lab members
+  description = """Research on energy-based generative models for problems in computer vision and natural language processing
   """
 
 [[experience]]
