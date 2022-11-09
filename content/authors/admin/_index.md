@@ -68,7 +68,7 @@ email: "emfischer712 at ucla dot edu"
 # - Visitors
 ---
 
-I’m a Ph.D. student with a specialization in natural language processing from the Department of Statistics at the University of California, Los Angeles. I perform research on energy-based generative models applied to language at the Center for Vision, Cognition, Learning, and Autonomy at UCLA. My advisors are Dr. Ying Nian Wu and Dr. Song-Chun Zhu. Here is my [Github](https://www.github.com/EricMFischer).
+I’m a Ph.D. student with a specialization in natural language processing from the Department of Statistics at the University of California, Los Angeles. I perform research on energy-based generative models applied to language problems at the Center for Vision, Cognition, Learning, and Autonomy at UCLA. My advisors are Dr. Ying Nian Wu and Dr. Song-Chun Zhu. Here is my [Github](https://www.github.com/EricMFischer).
 
 I earned a Master of Science from the Department of Computer Science at UCLA, submitting a thesis "[Deep Generative Classifier with Short Run Inference](https://escholarship.org/uc/item/8kx4z8qw)." A deep generative classifier uses Short Run Markov Chain Monte Carlo inference, Langevin dynamics, and backpropagation through time to achieve similar classification accuracy as an analogous discriminative classifier, i.e., a convolutional neural network, while it has the advantages that it can generate data, it can learn unsupervised with additional unlabeled data, and it exhibits robustness to adversarial attacks due to the stochasticity of the Langevin equation and the top-down architecture of the underlying generator network.
 

@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Los Angeles, CA"
   date_start = "2018-12-01"
   date_end = ""
-  description = """Research on energy-based generative models for natural language processing problems
+  description = """Perform research on energy-based generative models applied to language problems
   """
 
 [[experience]]
