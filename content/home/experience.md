@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Los Angeles, CA"
   date_start = "2018-12-01"
   date_end = ""
-  description = """Perform research on energy-based generative models applied to language problems
+  description = """Carry out research in generative modeling and representation learning for language
   """
 
 [[experience]]
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   location = "Los Angeles, CA"
   date_start = "2020-03-01"
   date_end = ""
-  description = """Have served as a Teaching Assistant and Grader for many undergraduate and graduate statistics courses at UCLA
+  description = """Have served as a Teaching Assistant for many undergraduate and graduate statistics courses at UCLA
   """
 
 [[experience]]

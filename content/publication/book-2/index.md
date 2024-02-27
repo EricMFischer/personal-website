@@ -1,6 +1,6 @@
 ---
 title: Stochastic Grammars for Scene Parsing
-summary: Edited several chapters of "Stochastic Grammars for Scene Parsing," a textbook authored by my Ph.D. advisor Dr. Song-Chun Zhu and Dr. Ying Nian Wu.
+summary: Edited several chapters of "Stochastic Grammars for Scene Parsing," a textbook authored by Dr. Song-Chun Zhu and my advisor Dr. Ying Nian Wu
 tags:
 date: "2019-09-01T00:00:00Z"
 # featured: true

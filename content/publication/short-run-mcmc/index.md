@@ -1,6 +1,6 @@
 ---
 title: Learning Multi-Layer Latent Variable Model via Variational Optimization of Short Run MCMC for Approximate Inference
-summary: Short-run MCMC residual network outperforms a variational autoencoder in terms of image reconstruction error and image synthesis quality, while not requiring the design of a separate inference network
+summary: Short-run MCMC residual network outperforms a variational autoencoder in regard to image reconstruction error and image synthesis quality, while not requiring the design of a separate inference network
 tags:
 - Computer Vision
 - Markov Chain Monte Carlo
@@ -41,7 +41,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-Contributed to this paper, submitted to CVPR, while advised by Dr. Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy at UCLA.
+I contributed to this paper, submitted to CVPR, while advised by Dr. Song-Chun Zhu at the Center for Vision, Cognition, Learning, and Autonomy at UCLA.
 
 The short-run Markov Chain Monte Carlo model can be considered a valid generative model just like
 a variational autoencoder (VAE) or a generative adversarial network (GAN). We use it to synthesize, interpolate, and reconstruct
