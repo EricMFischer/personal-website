@@ -1,6 +1,7 @@
 ---
 title: Statistical Models for Marr’s Paradigm
-summary: Wrote two chapters and edited several other chapters of "Statistical Models for Marr’s Paradigm," a textbook authored by Dr. Song-Chun Zhu and my advisor Dr. Ying Nian Wu
+summary: Credited as contributing author; Main contributor to the Preface, Introduction, and Chapters 1 and 2 of this book authored by Dr. Song-Chun Zhu and my advisor Dr. Ying Nian Wu
+
 tags:
 date: "2019-09-01T00:00:00Z"
 # featured: true
@@ -31,4 +32,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-Included is a draft of "Statistical Models for Marr’s Paradigm" as of July 2020.
+Included is a draft of "Statistical Models for Marr’s Paradigm" as of July 2020. The published book can now be found at https://link.springer.com/book/10.1007/978-3-030-96530-3.
